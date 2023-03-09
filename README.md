@@ -1,7 +1,7 @@
 I am a web developer intern with 9 months of hands-on experience in WordPress development. I have a strong understanding of the WordPress platform and have been able to successfully complete several projects using this technology. I have developed skills in custom plugin and theme development, as well as experience with front-end technologies such as HTML, CSS, and JavaScript. I am always eager to learn new technology. and I am confident in my ability to make a positive contribution to any WordPress development project.
                               I am currently enhancing my skills as a full-stack developer, expanding my knowledge and abilities across the entire development process. I am dedicated to becoming a well-rounded and versatile developer!
 - You can contact 📧 shanyasahu11@gmail.com
-- my Linkedin id :- https://www.linkedin.com/in/shanya-sahu-9a597a223/
+- my Linkedin id :- https://www.linkedin.com/in/shanya-sahu-web-developer/
 
 
 <!---
