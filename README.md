@@ -1,5 +1,6 @@
-I am a web developer with over 1.5+ years of experience in Web Development. I am also skilled in React.js. I began my journey as a web developer during my first year of graduating. Right now, I'm learning more about the MERN stack to improve my abilities. I am searching for a great opportunity to advance my career. 
-- You can contact 📧 shanyasahu11@gmail.com
+Experienced web developer dedicated to mastering full-stack development. Currently advancing skills in Next.js to create exceptional, high-performance web applications. Possess 2+ years of hands-on experience in web development, driven by a passion for delivering seamless user experiences.
+
+- You can contact me 📧 shanyasahu11@gmail.com
 - my LinkedIn id:- https://www.linkedin.com/in/shanya-sahu-web-developer/
 
 
