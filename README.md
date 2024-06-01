@@ -2,6 +2,7 @@ Experienced web developer dedicated to mastering full-stack development. Current
 
 - You can contact me 📧 shanyasahu11@gmail.com
 - my LinkedIn id:- https://www.linkedin.com/in/shanya-sahu-web-developer/
+- You can know me better from:- https://portfolio-shanyasahus-projects.vercel.app/
 
 
 <!---
