@@ -2,7 +2,7 @@
 
 ### Frontend Developer | React • Next.js • TypeScript
 
-Frontend Developer with 3+ year's experience building scalable, responsive apps using React, Next.js, and WordPress. Skilled in component architecture, API integration, performance optimization, SEO, and delivering high-quality UX. Proven multitasker with freelance and full-time experience.
+Frontend Developer with 3+ years of experience building scalable, responsive web applications using React.js, Next.js, and WordPress. Strong expertise in component-based architecture, REST API integration, and performance optimization. Proven track record of improving Lighthouse scores, enhancing SEO, and delivering high-quality user experiences. Experienced in managing freelance projects alongside full-time roles, demonstrating strong multitasking and time management skills. Seeking opportunities as a React/Frontend Developer in product-based environments.
 
 🔎 Currently open to Frontend / Junior Full-Stack Developer roles.
 
