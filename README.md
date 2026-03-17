@@ -2,8 +2,7 @@
 
 ### Frontend Developer | React • Next.js • TypeScript
 
-I build clean, scalable and performance-focused web applications.  
-Passionate about creating seamless user experiences and writing maintainable code.
+Frontend Developer with 3+ year's experience building scalable, responsive apps using React, Next.js, and WordPress. Skilled in component architecture, API integration, performance optimization, SEO, and delivering high-quality UX. Proven multitasker with freelance and full-time experience.
 
 🔎 Currently open to Frontend / Junior Full-Stack Developer roles.
 
