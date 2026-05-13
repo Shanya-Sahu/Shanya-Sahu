@@ -19,6 +19,27 @@ Frontend Developer with 3+ years of experience building scalable, responsive web
 
 ## 🌟 Featured Projects
 
+### 🤖 ATSForge AI – AI Interview Preparation Platform (Full-Stack)
+
+Developed an AI-powered interview preparation and resume optimization platform that helps job seekers create ATS-friendly resumes, analyze job descriptions, identify missing skills, and prepare for interviews using Generative AI.
+
+**Key Features**
+
+- AI-powered ATS resume analysis and optimization
+- Job description parsing with skill-gap detection
+- AI-generated interview questions based on target roles
+- Resume scoring and improvement suggestions
+- Authentication and protected user dashboards
+- Real-time AI responses using Gemini API
+- Responsive and performance-optimized UI
+- REST API integration with scalable backend architecture
+
+**Tech Stack:**
+React.js • Next.js • TypeScript • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini API • JWT
+
+🔗 Client: https://github.com/shanyasahu/atsforge-ai-client
+🔗 Server: https://github.com/shanyasahu/atsforge-ai-server
+
 ### 🏫 Eskoolnize – School Management System (Full-Stack)
 
 A web-based platform to digitally organize and manage school operations.
