@@ -156,7 +156,7 @@ Indira Gandhi National Tribal University _(2019 – 2022)_
 ## 📫 Connect With Me
 
 <p align="left">
-  📧 <strong>Email:</strong> mailto:shanyasahu.dev@gmail.com
+  📧 <strong>Email:</strong> shanyasahu.dev@gmail.com
   <br />
   💼 <strong>LinkedIn:</strong> https://www.linkedin.com/in/shanyasahu/
   <br />
