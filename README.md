@@ -40,7 +40,7 @@ Building scalable, high-performance web applications with a focus on clean archi
 
 ## 💼 Experience Highlights
 
-### Frontend Developer • CreatUs Media _(Oct 2023 – Present)_
+### Frontend Developer • CreatUs Media _(Oct 2023 – Sep 2025)_
 
 - Built scalable applications using **Next.js App Router, React.js, and TypeScript**
 - Developed reusable component libraries to accelerate feature delivery
@@ -137,18 +137,6 @@ A comprehensive platform to manage students, teachers, and administrative workfl
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shanyasahu&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanyasahu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanyasahu&theme=github-dark&hide_border=true" />
-</p>
-
----
 
 ## 🎓 Education & Certifications
 
@@ -168,7 +156,7 @@ Indira Gandhi National Tribal University _(2019 – 2022)_
 ## 📫 Connect With Me
 
 <p align="left">
-  📧 <strong>Email:</strong> shanyasahu.dev@gmail.com
+  📧 <strong>Email:</strong> mailto:shanyasahu.dev@gmail.com
   <br />
   💼 <strong>LinkedIn:</strong> https://www.linkedin.com/in/shanyasahu/
   <br />
